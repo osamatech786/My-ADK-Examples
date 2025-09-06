@@ -1,0 +1,18 @@
+# Ignore the specific .env file
+grounding_agent/.env
+grounding_agent/__pycache__
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE/editor configuration
+.vscode/
+.idea/
